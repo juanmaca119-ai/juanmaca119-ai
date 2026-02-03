@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hola a todos 👋
+💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) – 1º año
+☕ Conocimientos básicos en Java
+📚 Aprendiendo sobre programación, bases de datos y desarrollo de software
+🚀 Motivado por seguir mejorando y crear proyectos cada día
 <!--
 **juanmaca119-ai/juanmaca119-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
